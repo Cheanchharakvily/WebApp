@@ -1,0 +1,5 @@
+master python
+erase this
+eat breakfast 
+Do homework
+hello
